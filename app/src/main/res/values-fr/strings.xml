@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Primerproyectogaby</string>
+    <string name="var_saludo">Bienvenue</string>
+    <string name="var_botoninicio">Entre</string>
+</resources>

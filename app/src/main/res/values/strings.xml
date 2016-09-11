@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primerproyectogaby</string>
+    <string name="var_saludo">Bienvenido</string>
+    <string name="var_botoninicio">Entrar</string>
+</resources>
